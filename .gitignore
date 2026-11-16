@@ -1,0 +1,11 @@
+node_modules
+.next
+rea-main
+build-output.log
+out
+build
+.env*
+!.env.example
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
